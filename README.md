@@ -1,5 +1,5 @@
 # simple-ssrf-app
-Simple Python Flask app I made to use during various CTF setups. Just start it & enjoy!
+Simple Python Flask app I made a while ago to use during various CTF setups. Figured out that someone might as well need it. Just start it & enjoy!
 
 ## Setup
 ```
